@@ -1,5 +1,4 @@
-<img width="1866" height="846" alt="Screenshot 2026-05-19 191434" src="https://github.com/user-attachments/assets/013f81ac-fc0c-4328-ac02-c9bf11eaa2b6" />
-HELIXLAB 🧬
+# HELIXLAB 🧬
 
 HelixLab is a modern full-stack bioinformatics platform for DNA sequence analysis, featuring ORF detection, CRISPR guide discovery, restriction mapping, codon optimization, and interactive genomic visualizations.
 
@@ -71,19 +70,29 @@ HelixLab is a modern full-stack bioinformatics platform for DNA sequence analysi
 
 
 ### Analyzer Workspace
+<img width="1851" height="832" alt="Screenshot 2026-05-19 191509" src="https://github.com/user-attachments/assets/81d342d4-0f34-49b8-9f7c-fd96d15dfae3" />
 
 
 ### ORF Detection
-![ORF Detection](PASTE_IMAGE_LINK_HERE)
+<img width="1857" height="832" alt="Screenshot 2026-05-19 191621" src="https://github.com/user-attachments/assets/5eeb6498-1ae8-414b-b681-c2e1099bd1b1" />
+<img width="1852" height="837" alt="Screenshot 2026-05-19 191947" src="https://github.com/user-attachments/assets/fd24ab22-5714-4737-b2fc-de0758a9bec0" />
+
 
 ### Restriction Mapping
-![Restriction Mapping](PASTE_IMAGE_LINK_HERE)
+<img width="1852" height="826" alt="Screenshot 2026-05-19 191924" src="https://github.com/user-attachments/assets/62762a5f-f572-4fe6-8138-b36005656b69" />
+
 
 ### CRISPR Guide Finder
-![CRISPR](PASTE_IMAGE_LINK_HERE)
+<img width="1851" height="828" alt="Screenshot 2026-05-19 191727" src="https://github.com/user-attachments/assets/14de9037-43f1-435d-9b13-fab8d2360238" />
+<img width="1852" height="830" alt="Screenshot 2026-05-19 191744" src="https://github.com/user-attachments/assets/fdb8b6b7-8a37-43e4-8fe8-ee8c5cbed428" />
+
 
 ### Codon Optimizer
-![Codon Optimizer](PASTE_IMAGE_LINK_HERE)
+<img width="1858" height="841" alt="Screenshot 2026-05-19 191840" src="https://github.com/user-attachments/assets/13c99390-0ea1-4a12-8180-c694bc35769b" />
+
+### Documentation
+<img width="1847" height="832" alt="Screenshot 2026-05-19 192010" src="https://github.com/user-attachments/assets/b2af27a4-3803-45b2-be77-76b586ca2c43" />
+
 
 ---
 
@@ -157,30 +166,6 @@ pytest dna_sequence_analyzer/tests/
 - Real-time collaboration
 
 ---
-
-## Landing page
-<img width="1866" height="846" alt="image" src="https://github.com/user-attachments/assets/08d934bc-b2f0-4b72-b5ad-3c5511994930" />
-
-## DNA Analysis Workplace
-<img width="1851" height="832" alt="image" src="https://github.com/user-attachments/assets/c28cd347-051a-4632-900c-b6d082bcfeca" />
-
-## ORF Detection
-<img width="1857" height="832" alt="image" src="https://github.com/user-attachments/assets/60762f8c-7910-4afa-ace4-90476b70c4e3" />
-<img width="1852" height="837" alt="image" src="https://github.com/user-attachments/assets/9a5a7f3e-5b2b-419f-950a-79a822e436ba" />
-
-
-## CRISPR Guide Finder
-<img width="1851" height="828" alt="image" src="https://github.com/user-attachments/assets/97819484-aae8-4d69-869d-6ef5d70303fd" />
-<img width="1852" height="830" alt="image" src="https://github.com/user-attachments/assets/3aeee213-1ab9-471f-8e26-d71d197b2c57" />
-
-## Codon Optimizer
-<img width="1858" height="841" alt="image" src="https://github.com/user-attachments/assets/a1086200-1696-469a-91e1-15bbe0c37fa9" />
-
-## Restriction Mapping
-<img width="1852" height="826" alt="image" src="https://github.com/user-attachments/assets/7fc4203f-2279-460d-8477-c210a6fdac56" />
-
-## Documentation
-<img width="1847" height="832" alt="image" src="https://github.com/user-attachments/assets/5d042b4d-f200-427a-be21-497c133d840e" />
 
 
 ## 👩‍💻 Author
