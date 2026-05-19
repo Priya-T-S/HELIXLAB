@@ -1,3 +1,4 @@
+<img width="1866" height="846" alt="Screenshot 2026-05-19 191434" src="https://github.com/user-attachments/assets/013f81ac-fc0c-4328-ac02-c9bf11eaa2b6" />
 # HELIXLAB 🧬
 
 HelixLab is a modern full-stack bioinformatics platform for DNA sequence analysis, featuring ORF detection, CRISPR guide discovery, restriction mapping, codon optimization, and interactive genomic visualizations.
@@ -66,10 +67,11 @@ HelixLab is a modern full-stack bioinformatics platform for DNA sequence analysi
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](PASTE_IMAGE_LINK_HERE)
+<img width="1866" height="846" alt="Screenshot 2026-05-19 191434" src="https://github.com/user-attachments/assets/182d6511-6be5-48f1-bfc1-c8540ddfcf41" />
+
 
 ### Analyzer Workspace
-![Analyzer](PASTE_IMAGE_LINK_HERE)
+
 
 ### ORF Detection
 ![ORF Detection](PASTE_IMAGE_LINK_HERE)
