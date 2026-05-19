@@ -156,6 +156,31 @@ pytest dna_sequence_analyzer/tests/
 
 ---
 
+## Landing page
+<img width="1866" height="846" alt="image" src="https://github.com/user-attachments/assets/08d934bc-b2f0-4b72-b5ad-3c5511994930" />
+
+## DNA Analysis Workplace
+<img width="1851" height="832" alt="image" src="https://github.com/user-attachments/assets/c28cd347-051a-4632-900c-b6d082bcfeca" />
+
+## ORF Detection
+<img width="1857" height="832" alt="image" src="https://github.com/user-attachments/assets/60762f8c-7910-4afa-ace4-90476b70c4e3" />
+<img width="1852" height="837" alt="image" src="https://github.com/user-attachments/assets/9a5a7f3e-5b2b-419f-950a-79a822e436ba" />
+
+
+## CRISPR Guide Finder
+<img width="1851" height="828" alt="image" src="https://github.com/user-attachments/assets/97819484-aae8-4d69-869d-6ef5d70303fd" />
+<img width="1852" height="830" alt="image" src="https://github.com/user-attachments/assets/3aeee213-1ab9-471f-8e26-d71d197b2c57" />
+
+## Codon Optimizer
+<img width="1858" height="841" alt="image" src="https://github.com/user-attachments/assets/a1086200-1696-469a-91e1-15bbe0c37fa9" />
+
+## Restriction Mapping
+<img width="1852" height="826" alt="image" src="https://github.com/user-attachments/assets/7fc4203f-2279-460d-8477-c210a6fdac56" />
+
+## Documentation
+<img width="1847" height="832" alt="image" src="https://github.com/user-attachments/assets/5d042b4d-f200-427a-be21-497c133d840e" />
+
+
 ## 👩‍💻 Author
 
 Priya T S
